@@ -24,6 +24,7 @@ public class HooksClass extends Baseclass {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(100, TimeUnit.SECONDS);
       System.out.println("Before hooks");
+      System.out.println("lekshitha");
       
 	}
 	
